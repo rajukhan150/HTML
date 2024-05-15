@@ -40,7 +40,7 @@
     <li>Keeping up-to-date with the latest trends and advancements in web development to ensure that my skills remain cutting-edge.</li>
 </ul>
         
-    <h2>Project Highlights</h2>
+<h2>Project Highlights</h2>
         
 <h3>Project 1: Responsive E-commerce Website</h3>
 <ul>
