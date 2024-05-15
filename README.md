@@ -49,7 +49,7 @@
     <li>Integrated with a back-end system to manage product listings, shopping cart functionality, and user authentication.</li>
 </ul>
         
-    <h3>Project 2: Personal Portfolio Website</h3>
+<h3>Project 2: Personal Portfolio Website</h3>
 <ul>
     <li>Created a personal portfolio website to showcase my projects and skills.</li>
     <li>Used modern HTML5 features to enhance the website's interactivity and user experience.</li>
